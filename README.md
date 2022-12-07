@@ -2,7 +2,7 @@
 - 👀 I’m interested in things
 - 🌱 I’m currently learning HTML5
 - 💞️ I’m looking to collaborate on stuff
-- 📫 How to reach me dont
+- 📫 How to reach me 
 
 <!---
 louigio04/louigio04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
