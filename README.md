@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @louigio04
 - 👀 I’m interested in things
-- 🌱 I’m currently learning HTML5
+- 🌱 I’m currently learning C++/C#
 - 💞️ I’m looking to collaborate on stuff
 - 📫 How to reach me 
 
